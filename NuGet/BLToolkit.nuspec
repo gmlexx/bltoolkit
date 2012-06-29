@@ -14,9 +14,7 @@
 		<tags>bltoolkit Linq ORM DAL database DB</tags>
 	</metadata>
 	<files>
-		<file src="..\Source\bin\Release\BLToolkit.3.dll"    target="lib\net35"        />
 		<file src="..\Source\bin\Release\BLToolkit.4.dll"    target="lib\net40-full"   />
 		<file src="..\Source\bin\Release\BLToolkit.CP.4.dll" target="lib\net40-client" />
-		<file src="..\Source\bin\Release\BLToolkit.SL.4.dll" target="lib\sl40"         />
 	</files>
 </package>
