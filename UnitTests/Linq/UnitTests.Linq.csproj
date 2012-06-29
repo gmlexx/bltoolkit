@@ -284,10 +284,6 @@
       <Project>{D527524F-EC92-465E-9CAE-86278121675A}</Project>
       <Name>UnitTests.Linq.Interface</Name>
     </ProjectReference>
-    <ProjectReference Include="UnitTests.Linq.VisualBasic.vbproj">
-      <Project>{D11617AB-9F88-4C74-8ABD-F8580DB4B01B}</Project>
-      <Name>UnitTests.Linq.VisualBasic</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
